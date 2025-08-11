@@ -1,3 +1,8 @@
+# ek din ek codder me kuchh kharcha pani ke liye code me usne kucjhh kiya.check   
+# iss liye hamhe ek kuchh kam kiya jo kafi dino baad se practice kiya hai 
+# ab hum yahi karenge.check
+  
+
 terraform {
   required_providers {
     azurerm = {
